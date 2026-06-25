@@ -99,6 +99,12 @@ Plataforma educativa de preguntas y respuestas diseñada para fortalecer el apre
 
 </div>
 
----
-"El dinero alcanza cuando nadie roba"
-Nayib Bukele
+<div align="center">
+
+###  
+
+![Quote](https://img.shields.io/badge/_El_dinero_alcanza_cuando_nadie_roba-000000?style=for-the-badge)
+
+**— Nayib Bukele**
+
+</div>

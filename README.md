@@ -98,3 +98,7 @@ Plataforma educativa de preguntas y respuestas diseñada para fortalecer el apre
 *"La tecnología es más poderosa cuando se utiliza para crear oportunidades y compartir conocimiento."*
 
 </div>
+
+---
+"El dinero alcanza cuando nadie roba"
+Nayib Bukele
